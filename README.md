@@ -36,6 +36,6 @@
     It has originally been developed for a coding challenge, where 10 submissions within 10 seconds were required to succeed.
     This tool is therefore set to make multiple tries until success, any mistake made will result in another try in a new browser window.
 
-    Intended for IDE use only in this version.
+    Intended for IDE use only in v.1
     
     Please give me feedback!
