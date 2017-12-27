@@ -10,13 +10,13 @@
  |  _|| | | (_) | | | | ||_____|  __/ | | | (_| |  ___) | (_) | |\ V /  __/ |   
  |_|  |_|  \___/|_| |_|\__|     \___|_| |_|\__,_| |____/ \___/|_| \_/ \___|_|   
                                                                                 
-                                                                               
-*Title:                  VisualCaptcha_Front-end_Solver.py
-*Author:                 Arnaud BOURHIS
-*Email:                  arnaud.bourhis@free.fr
-*Source:                 github.com/bourhisa
-*Description:            Breaking Visual Captchas by browser emulation through Selenium
-*Pre-requisites:         All used Python libraries (including Selenium with all dependencies), and usable drivers
+
+* Title:                  VisualCaptcha_Front-end_Solver.py
+* Author:                 Arnaud BOURHIS
+* Email:                  arnaud.bourhis@free.fr
+* Source:                 github.com/bourhisa
+* Description:            Breaking Visual Captchas by browser emulation through Selenium
+* Pre-requisites:         All used Python libraries (including Selenium with all dependencies), and usable drivers
                         for the use of a browser thourgh Selenium (eg Gecko driver for Firefox)
                         (see http://selenium-python.readthedocs.io/api.html)
 
